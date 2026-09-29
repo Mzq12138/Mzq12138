@@ -58,7 +58,7 @@ What I am happy to talk about
 Contact
 - Email — doermzq0398@foxmail.com
 - GitHub — @Mzq12138
-- Location — Hangzhou, China · open to relocation to New Zealand
+- Location — Hangzhou, China · open to relocation
 ### Why there is no production code here
 
 My day job runs on an air-gapped internal banking network. The Kaiyang codebase, its architecture diagrams and its data are the bank's assets, so none of it can appear in a public repository. That is a constraint I take seriously — and one any enterprise engineer will recognise.
@@ -66,7 +66,6 @@ My day job runs on an air-gapped internal banking network. The Kaiyang codebase,
 What I can share publicly:
 
 - The research codebase from my Master's degree (below)
-- Smaller open experiments — [currently working on a minimal agent-orchestration demo; link to follow]
 - The design reasoning behind the platform — I am happy to walk through architecture and trade-offs in a conversation
 
 ### Research
@@ -89,5 +88,5 @@ The problem this addresses: fusing several unreliable sensor modalities into one
 
 - **Email** — <doermzq0398@foxmail.com>
 - **GitHub** — [@Mzq12138](https://github.com/Mzq12138)
-- **Location** — Hangzhou, China · open to relocation to New Zealand
+- **Location** — Hangzhou, China · open to relocation
 
